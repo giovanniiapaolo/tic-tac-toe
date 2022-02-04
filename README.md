@@ -6,21 +6,17 @@
 
 Simple Example of Tic Tac Toe built with Vue.js.
 
-### install dependencies
+# install dependencies
 
 npm install
 
-### serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080
 
-npm run dev
+npm run serve
 
-### build for production with minification
+# build for production with minification
 
 npm run build
-
-## Live at
-
-https://giovanniiapaolo.github.io/tic-tac-toe/
 
 ### Bug report or Feature request
 
